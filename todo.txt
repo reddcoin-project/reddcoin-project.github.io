@@ -1,0 +1,6 @@
+* check release process and gitian
+* Check out autotools build-system of bitcoin to further align gitian-descriptors
+* main.h: +static const int64 MAX_MONEY = 92233720368 * COIN; // Maximum or compile warning, will fix in future release.
+* check gpg key
+* copyright in about dialog
+* tag signature
