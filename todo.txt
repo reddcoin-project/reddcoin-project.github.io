@@ -4,3 +4,5 @@
 * check gpg key
 * copyright in about dialog
 * tag signature
+* code-sign windows
+
