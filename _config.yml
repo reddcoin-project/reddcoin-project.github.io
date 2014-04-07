@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
-url:              http://getpoole.com
+title:            Reddcoin
+tagline:          Development blog
+description:      Blog posts by Reddcoin developers
+url:              http://blog.reddcoin.com
 
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           Mathy Vanvoorden
+  url:            https://github.com/MathyV
 
-paginate:         1
+paginate:         5
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/reddcoin-project/reddcoin-project.github.io
