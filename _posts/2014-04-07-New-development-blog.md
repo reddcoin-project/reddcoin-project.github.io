@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New development blog
+author: Mathy Vanvoorden
 ---
 
 In order to communicate better with our users we have created this developer blog. Here useful information on development will be shared as it is a bit more of a static medium than the [development subreddit](http://www.reddit.com/r/redddev/). We will keep using that subreddit to gather information and get discussions going though.
